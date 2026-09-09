@@ -5,8 +5,8 @@ import ResumeGenerator from "./pages/ResumeGenerator";
 import UserFrom from "./pages/UserFrom";
 import History from "./pages/History";
 import Pnf from "./pages/Pnf";
-import Header from "./components/header";
-import Footer from "./components/footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import ViewResume from "./pages/ViewResume";
 
 
